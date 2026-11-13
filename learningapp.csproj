@@ -6,8 +6,8 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
-  <ItemGroup>
-    <PackageReference Include="Microsoft.Data.SqlClient" Version="5.2.0" />
+ <ItemGroup>
+    <PackageReference Include="MySql.Data" Version="8.4.0" />
   </ItemGroup>
 
 </Project>
